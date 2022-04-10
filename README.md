@@ -1,3 +1,7 @@
+# For gopher beginner recommend to follow this guideline 
+https://go101.org/article/101.html
+
+
 # Go RESTful API Starter Kit (Boilerplate)
 
 [![GoDoc](https://godoc.org/github.com/qiangxue/go-rest-api?status.png)](http://godoc.org/github.com/qiangxue/go-rest-api)
